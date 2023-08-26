@@ -27,7 +27,7 @@
     </dependency>
 	<dependencies>
 
-	   <groupId>spring-core-6.5.11</groupId>
+	   <groupId>spring-core-6.5.1</groupId>
 
 	</dependencies>
   </dependencies>
